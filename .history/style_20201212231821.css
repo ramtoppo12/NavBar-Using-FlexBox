@@ -1,0 +1,18 @@
+nav {
+  font-size: 2rem;
+  background-color: #f1f1f1;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+nav ul li {
+  cursor: pointer;
+  padding: 0.5rem;
+}
+nav ul li:hover {
+  background-color: #555;
+  color: #fff;
+}
